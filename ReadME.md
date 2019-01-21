@@ -24,11 +24,11 @@
 
 - Install looper by entering this command in your terminal 
 
-> pip install looper
+> pip install loopers
 
 - Import looper to your codes. 
 
-> from looper import loop
+> from loopers import loop
 
 loop, a function in looper takes two arguments;
 - The first argument is the link to the webpage you are trying to crawl emails from 
