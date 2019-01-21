@@ -1,25 +1,26 @@
 ### Looper
 
 
-**Looper is a framework used in scrapping emails out of a webpage.
+**Looper is a framework used in scrapping emails out of a webpage**
 
 ***
 
-####**Functions**
+#### **Functions**
 - Scraps emails from webpage
 - Allow checking first level subdirectories 
 
 
 ***
 
-####**Requirements**
+#### **Requirements**
 - Python 3.x or 2.x
 - Working internet
+- Requests 
 
 **NOTE: BeautifulSoup is for listing out links in that webpage, so it's not necessary**
 ***
 
-####**Usage**
+#### **Usage**
 
 - Install looper by entering this command in your terminal 
 
